@@ -1,0 +1,3 @@
+%{
+  "hex_core": {:hex, :hex_core, "0.2.0", "3a7eaccfb8add3ff05d950c10ed5bdb5d0c48c988ebbc5d7ae2a55498f0eff1b", [:rebar3], [], "hexpm"},
+}
